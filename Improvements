@@ -1,0 +1,55 @@
+Improvements on the Website (Part 2)
+*Background image from the about page to the contact page was changed and is different from the background image in the wireframes above*
+1 .Home Page
+1.	Header and Navigation:
+•	Enhanced hover effects for better interactivity.
+•	Consistent colour scheme for links.
+2.	Responsive Design:
+•	The images respond to the different devices.
+3.	Main Section
+•	Grid Layout for the three home page images.
+•	Responsive Design
+•	       Footer was added with text of all copyrights reserved.
+2. About us Page
+1.	Header and Navigation:
+•	Enhanced hover effects for better interactivity.
+•	Consistent colour scheme for links.
+2.	Main Sections:
+•	Added a logo of the business in a box and added text about the business next to the image.
+•	Improved spacing between headings and paragraphs for better readability.
+•	              Footer was added with text of all copyrights reserved.
+3. Nails Page
+1.	Header and Navigation:
+•	Enhanced hover effects for better interactivity.
+•	Consistent colour scheme for links.
+2.	Responsive Design:
+•	Images pop up when you hover over them.
+3.	Main Section:
+•	 Flex Layout: The flex design was used to align the images on the nails page, with better spacing between each other. 
+•	 	Text was added under the images, prices per length and nail design.
+•	        Borders were added to make the images visible and attractive.
+•	 Image Sizing: Standardize image sizes to maintain a uniform and professional look.
+•	               Footer was added with text of all copyrights reserved.
+4. Lashes Page
+1. Header and Navigation:
+•	Enhanced hover effects for better interactivity
+•	Consistent colour scheme for links.
+Main Content Layout:
+•		Responsive Design:
+•		Images pop up when you hover over them.
+•	Flex Layout: The flex design was used to align the images on the nails page, with better spacing between each other. 
+•	Text was added under the images, prices per volume and lash design.
+•	       Borders were added to make the images visible and attractive.
+•	       Image Sizing: Standardize image sizes to maintain a uniform and professional look.
+•	       Footer was added with text of all copyrights reserved.
+5. Contact Us Page
+1.	Header and Navigation:
+•	Consistent styling with the "About Us" page for branding continuity.
+2.	 Main Section:
+•	Centred layout for the main content with a maximum width for improved readability.
+•	Rounded corners and shadows for a modern look.
+3.	Contact (Booking) Form:
+•	Clear focus states on input fields to enhance accessibility.
+•	Smooth transitions for input and button states for better user experience.
+•	Improved spacing around form elements for a cleaner look.
+•	      Contact details and operating hours were added for clients to be able to reach us.
